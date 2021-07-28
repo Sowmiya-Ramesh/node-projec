@@ -9,6 +9,6 @@ arr.forEach((num)=>{
 console.log(max);
 console.log(Math.max(...arr)); //using spread operator */
 
-const stringArr=process.argv[2];
-const arr=JSON.parse(stringArr);
-console.log(Math.max(...arr))
+// const stringArr=process.argv[2];
+// const arr=JSON.parse(stringArr);
+// console.log(Math.max(...arr))
